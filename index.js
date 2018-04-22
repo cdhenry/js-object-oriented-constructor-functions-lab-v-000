@@ -1,5 +1,5 @@
 function Scooter(year, color, model){
-  let this.year = year;
-  let this.color = color;
-  let this.model = model;
+  this.year = year;
+  this.color = color;
+  this.model = model;
 }
